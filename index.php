@@ -1,13 +1,21 @@
 <html>
 
 <header>
-A Headder.
+  
+  A Headder.
+  
 </header>
 
 <body>
-
-
-
+  
+  <?php
+    
+  $stringVar = "Hello World.";
+  
+  echo $stringVar;
+  
+  ?>
+  
 </body>
 
 </html>
